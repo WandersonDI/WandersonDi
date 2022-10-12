@@ -25,12 +25,11 @@ sou desenvolvedor front-end, atualmente em busca de novos desafios e de melhorar
 
 ---
 
-<div align="left">
+<div >
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonDI&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WandersonDI&langs_count=8&theme=dark" alt="Top Langs" align="left">
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WandersonDI&show_icons=true&theme=dark)
+  <img src="https://github-readme-stats.vercel.app/api?username=WandersonDI&show_icons=true&theme=dark" alt="GitHub stats">
 
 </div>
 
