@@ -2,8 +2,7 @@
 
 # Olá, me chamo Wanderson Dias 💻🌎
 
-sou desenvolvedor front-end, atualmente em busca de novos desafios e de melhorar minhas habilidades com 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25px" align="center" alt="JS">
+Desenvolvedor web, atualmente estudando node 📖 🖊️
 
 ---
 
