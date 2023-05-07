@@ -1,4 +1,4 @@
-<img src="banner.gif" width="400px" align="right">
+<img src="banner.gif" width="300px" align="right">
 
 # Olá, me chamo Wanderson Dias 💻🌎
 
